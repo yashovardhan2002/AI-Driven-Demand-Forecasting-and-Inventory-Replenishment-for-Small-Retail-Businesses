@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
 Run the main analysis:
 ```bash
-python thesis.py
+python prophet.py
 ```
 
 The script will:
@@ -71,7 +71,7 @@ The script generates the following files:
 
 ## ⚙️ Configuration
 
-Modify the `CONFIG` dictionary in `thesis.py` to adjust parameters:
+Modify the `CONFIG` dictionary in `prophet.py` to adjust parameters:
 ```python
 CONFIG = {
     'num_skus': 50,                    # Number of SKUs to analyze
