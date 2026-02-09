@@ -3,7 +3,7 @@ AI-driven demand forecasting thesis comparing Prophet vs SMA for retail inventor
 # AI-Driven Demand Forecasting and Inventory Replenishment for Small Retail Businesses
 ## 📋 Overview
 
-This BSc thesis project implements and compares AI-driven demand forecasting using Facebook Prophet against traditional Simple Moving Average (SMA) methods for inventory optimization in small to medium-sized retail enterprises (SMEs).
+This thesis project implements and compares AI-driven demand forecasting using Facebook Prophet against traditional Simple Moving Average (SMA) methods for inventory optimization in small to medium-sized retail enterprises (SMEs).
 
 ## 🎯 Key Features
 
